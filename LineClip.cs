@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +9,9 @@ namespace LineClip
 {
     /// <summary>
     /// A very fast C# library for clipping polylines and polygons by a bounding box.
-    /// 移植 https://github.com/mapbox/lineclip/blob/master/index.js，Latest commit 10a422f on 19 Jul 2018 to csharp版
-    /// source license : https://github.com/mapbox/lineclip/blob/master/LICENSE
+    /// Transplant https://github.com/mapbox/lineclip/blob/master/index.js，Latest commit 10a422f on 19 Jul 2018 to csharp版
+    /// Source license : https://github.com/mapbox/lineclip/blob/master/LICENSE
+    /// Newest source link : https://github.com/lag945/lineclip_csharp
     /// </summary>
     class LineClip
     {
